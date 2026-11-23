@@ -41,14 +41,6 @@ ecommerce-rfm-customer-segmentation/
 ├── requirements.txt
 ├── data/                  # put the dataset here (not uploaded)
 └── outputs/
-    ├── rfm_scores.csv             # RFM score table for all customers
-    ├── segment_summary.csv        # size, spend and revenue share of each segment
-    ├── kmeans_cluster_profile.csv
-    ├── rfm_results.xlsx           # same tables in one Excel file
-    ├── segment_sizes.png
-    ├── segment_revenue_share.png
-    ├── segments_scatter.png
-    └── kmeans_elbow_silhouette.png
 ```
 
 ## How to run
@@ -87,4 +79,3 @@ Every customer gets an RFM score and a segment name, and the segment summary sho
 
 Harshvardhansinh Rathod
 B.Tech Information Technology, Sankalchand Patel College of Engineering
-GitHub: [RathodHarshvardhansinh](https://github.com/RathodHarshvardhansinh)
